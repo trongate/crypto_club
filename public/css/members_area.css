@@ -1,0 +1,11 @@
+body {
+	background-color: gold;
+}
+
+.container {
+	min-height: 100vh;
+}
+
+li {
+	margin-bottom: 1em;
+}
